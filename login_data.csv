@@ -1,4 +1,4 @@
 Name,Email,Username,Password
-John Doe,johndoe@example.com,johndoe123,pass123
-Jane Smith,janesmith@example.com,janesmith456,pass456
-Michael Johnson,michaeljohnson@example.com,mjohnson789,pass789
+John,johndoe@example.com,johndoe123,pass123
+Jane,janesmith@example.com,janesmith456,pass456
+Michael,michaeljohnson@example.com,mjohnson789,pass789
